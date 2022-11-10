@@ -1,7 +1,7 @@
 function Header() {
     return (
         <section>
-            <h1>Romain Météyé</h1>
+            <h1>Gallery Example</h1>
         </section>
     )
 }
